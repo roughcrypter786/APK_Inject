@@ -39,3 +39,5 @@ If you think, it is malicious, check the bash file by this command:
 
 
 
+# Attention
+You can find an .apk file named as "D_app.apk". This is just a demo apk. You have to change it with your desired apk file which you want to use.
