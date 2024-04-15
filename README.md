@@ -1,2 +1,3 @@
-# InjectAPK
-This is an automation software which will make the msfvenom and msfconsole process automatically. Anyone can use it but be aware of using it for wrong purpose.
+# APK_Injector
+This is an automation software which will bind Android Payload into APK and automate msfvenom and msfconsole processes.
+Do_Not_Use_It_For_Wrong_Intention
