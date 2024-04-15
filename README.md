@@ -1,4 +1,21 @@
-# APK_Injector
+           _____  _  __
+     /\   |  __ \| |/ /
+    /  \  | |__) | ' /
+   / /\ \ |  ___/|  <
+  / ____ \| |    | . \
+ /_/    \_\_|    |_|\_\
+  _____       _           _
+ |_   _|     (_)         | |
+   | |  _ __  _  ___  ___| |_
+   | | | '_ \| |/ _ \/ __| __|
+  _| |_| | | | |  __/ (__| |_
+ |_____|_| |_| |\___|\___|\__|
+
+
+
+
+
+# APK_Inject
     Binding Android Payload Into APK
     Remotely Hack Into Android Phone.
     Automating MSFVenom and MSFConsole
@@ -24,20 +41,18 @@ Packages :
 #Install Git
     ```apt install git```
 #Download the folder github
-    ```git clone https://github.com/roughcrypter786/APK_Injector```
+    ```git clone https://github.com/roughcrypter786/APK_Inject```
 #Go to InjectAPk directory
-    ```cd APK_Injector```
+    ```cd APK_Inject```
 #Give executable permission to InjectAPK.sh
-    ```chmod +x apkInjector.sh```
+    ```chmod +x apkInject.sh```
 #Execute the bash file
-    ```./apkInjector.sh```
+    ```./apkInject.sh```
 
 # Note:-
 If you are using it for the first time it will download the requiered components and you may need to press "y" several times.
 If you think, it is malicious, check the bash file by this command:
-                                                                ```nano apkInjector```
+                                                                ```nano apkInject```
 
 
 
-# Attention
-You can find an .apk file named as "D_app.apk". This is just a demo apk. You have to change it with your desired apk file which you want to use.
