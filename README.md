@@ -39,3 +39,4 @@ If you think, it is malicious, check the bash file by this command:
 
 
 
+![a pk](https://github.com/roughcrypter786/APK_Inject/assets/163091757/374eca28-c668-4ff6-bd1b-d81f6a381af2)
